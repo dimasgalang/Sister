@@ -6,7 +6,7 @@ $(document).ready(function(){
 
      // redirect_uri of the project
 
-     var redirect_uri = "http://localhost/Sister/upload.html";
+     var redirect_uri = "http://localhost/Sister/upload.php";
 
      // scope of the project
 
